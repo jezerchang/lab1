@@ -3,5 +3,5 @@ digraph G {
 	A->C;
 	C->B;
 	B->D;
-	C->E;
+	C->E; E->F;
 }
